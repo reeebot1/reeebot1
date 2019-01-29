@@ -1,0 +1,18 @@
+---
+title: Fred Bread
+author: Jason Tang
+date: '2019-01-29'
+slug: fred-bread
+categories: []
+tags: []
+---
+
+This is Fred.
+This is Bread.
+Fred likes Bread.
+Bread is bread.
+Fred is Fred.
+Fred eats Bread.
+Fred bakes Bread.
+Fred is now Red.
+Fred meets Ted.
